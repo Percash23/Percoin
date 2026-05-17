@@ -1,2 +1,2 @@
-# Percash
-Percash - Internet Money
+# Percoin
+Percoin - Internet Money Measured in PRC
